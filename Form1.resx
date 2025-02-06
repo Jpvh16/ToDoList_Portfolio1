@@ -121,8 +121,14 @@
   <data name="bunifuGradientPanel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA2SURBVChT7cqhAQAxCATBSCwSi0Rikdjrv53NV/Eqo+d8
-        MDPcnYggM6kqupuZYXeRxIu/RnEBf/WP6cQ34SQAAAAASUVORK5CYII=
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGISURBVChTBcFpTxJwAMDh/zfojVtra7O1mtXS5TSPDh06
+        mfc9KIgExSvUEEUEQSAQFBTxQPGGNJXKM80jy7wq80P9fB5xI9/OzfJ+7rwO8kAzRfK7KJmGGBLLNoWu
+        Qyr9ZyjHrxBxRb3crvJy/80widowaa0RsoyrSG1blHkOkAdOUU/+R9wqtXFX5uFRTYCUxkme6xfI7V6h
+        2LFJ9cA+qpET6qcvEfEVVhIUfTypHSJDN4GkY56CnmUq3BsoBveoDf1GN/cPca+6h8cqN0/rB3nZFkLa
+        NUdp7ydk3nVqhr/TGD5GH/mLeCi3kKx28azJT077OEXmWaqcSyh9a2hHd2mZ+YVx8Q8iSWEmve4D2Tof
+        +Z1jlFtneOVeRDP0lebQDob5n1iWLxCpqm5eNDjJaxugxDSKzD7NW+9HGoJfeB/+hil6hCN2jsjUmJA0
+        Oyg09FNpGUHpmqLOH0U39pnO2W2sSz/oWztDZGm7kLbYKTN6kduCqD1hmgIR9BMxzAtbOFcO8W2ecg0p
+        F/CL9o8FawAAAABJRU5ErkJggg==
 </value>
   </data>
   <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
