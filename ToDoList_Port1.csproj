@@ -69,6 +69,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -82,6 +83,48 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage %2812%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mountain-6783202_640.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
